@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba33ae29-b8ad-42f7-b728-75f4f201b413" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yearup/dealership/Contract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yearup/dealership/LeaseContract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yearup/dealership/SalesContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contract.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealership.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yearup/dealership/ContractDataManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yearup/dealership/UserInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yearup/dealership/UserInterface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
